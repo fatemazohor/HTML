@@ -60,11 +60,11 @@ input[type="checkbox"]{
 
 .menu{
     width: 25%;
-     height: 100vh;
-    position: relative;
-    margin: 0 3px;
+    height: 100vh;
+    border: 1px solid black;
+    position: fixed;
+    margin: 0 2px 0 0;
     padding: 8px;
-    border: 1px solid #eae1e1;
     box-sizing: border-box;
 }
 .menu h2{
